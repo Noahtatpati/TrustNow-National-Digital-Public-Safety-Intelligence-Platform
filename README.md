@@ -36,7 +36,7 @@ A real-time national intelligence dashboard providing a live overview of fraud a
 - Regional scam trends
 - Intelligence overview
 
-![Today's Brief](img/todays-brief.png)
+![Today's Brief](img/today's-brief.png)
 
 ---
 
@@ -92,7 +92,7 @@ Features:
 - Threat Categories
 - Live Incident Monitoring
 
-![Threat Map](img/threat-map.png)
+![Threat Map](img/Threat-Map.png)
 
 ---
 
@@ -110,7 +110,7 @@ Features:
 - Microprint Analysis
 - UV Feature Verification
 
-![Counterfeit Scanner](img/counterfeit-scanner.png)
+![Counterfeit Scanner](img/Counterfeit-Currency-Scanner.png)
 
 ---
 
@@ -129,7 +129,7 @@ Visualize hidden connections between:
 
 Designed to help investigators identify coordinated fraud operations and connected entities.
 
-![Fraud Network](img/fraud-network.png)
+![Fraud Network](img/Network.png)
 
 ---
 
