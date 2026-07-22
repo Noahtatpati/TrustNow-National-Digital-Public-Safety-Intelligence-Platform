@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-et-bg: #FAF9F6;
+  --color-et-surface: #FFFFFF;
+  --color-et-text: #161616;
+  --color-et-secondary: #666666;
+  --color-et-divider: #E6E6E6;
+  --color-et-border: #D9D9D9;
+  --color-et-red: #B22222;
+  --color-et-red-hover: #8E1B1B;
+  --color-risk-high: #C62828;
+  --color-risk-medium: #D97706;
+  --color-risk-low: #4D7C0F;
+  --font-serif: 'IBM Plex Serif', Georgia, serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
