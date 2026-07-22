@@ -1,1 +1,0 @@
-# TrustNow-National-Digital-Public-Safety-Intelligence-Platform
