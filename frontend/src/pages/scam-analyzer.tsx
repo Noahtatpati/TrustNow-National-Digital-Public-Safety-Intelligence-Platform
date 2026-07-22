@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { TopNav } from '@/layouts/top-nav'
+import { Footer } from '@/layouts/footer'
 import { Badge } from '@/components/ui/badge'
 import { Shield, AlertTriangle, CheckCircle, Phone, MessageSquare, ExternalLink, Sparkles, FileText, TrendingUp, Globe, CreditCard, Mail, Search, MapPin, Building, Flag } from 'lucide-react'
 
@@ -806,6 +807,7 @@ export function ScamAnalyzer() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   )
 }

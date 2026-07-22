@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { TopNav } from '@/layouts/top-nav'
+import { Footer } from '@/layouts/footer'
 import { StateWrapper } from '@/components/ui/state-wrapper'
 import { Badge } from '@/components/ui/badge'
 import { ThreatMapWidget } from '@/components/threat/leaflet-map'
@@ -371,6 +372,7 @@ export function TodaysBrief() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   )
 }

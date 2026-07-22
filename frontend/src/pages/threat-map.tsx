@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import { TopNav } from '@/layouts/top-nav'
+import { Footer } from '@/layouts/footer'
 import { StateWrapper } from '@/components/ui/state-wrapper'
 import { LeafletThreatMap } from '@/components/threat/leaflet-map'
 import { Badge } from '@/components/ui/badge'
@@ -162,6 +163,7 @@ export function ThreatMapPage() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   )
 }

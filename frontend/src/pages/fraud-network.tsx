@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react'
 import { TopNav } from '@/layouts/top-nav'
+import { Footer } from '@/layouts/footer'
 import { NetworkGraph } from '@/components/threat/network-graph'
 import { Share2, Download, Clock, Users, GitBranch, Activity } from 'lucide-react'
 
@@ -301,6 +302,7 @@ export function FraudNetworkPage() {
 
 
       </div>
+      <Footer />
     </div>
   )
 }

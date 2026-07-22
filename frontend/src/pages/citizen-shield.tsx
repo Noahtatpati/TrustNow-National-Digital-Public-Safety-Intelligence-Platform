@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 import { TopNav } from '@/layouts/top-nav'
+import { Footer } from '@/layouts/footer'
 import {
   Shield, Send, Phone, AlertTriangle,
   MessageSquare, Globe, Smartphone,
@@ -488,6 +489,7 @@ export function CitizenShield() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   )
 }

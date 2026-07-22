@@ -1,5 +1,6 @@
 import { useState, useRef, useCallback, useEffect } from 'react'
 import { TopNav } from '@/layouts/top-nav'
+import { Footer } from '@/layouts/footer'
 import { Badge } from '@/components/ui/badge'
 import { ShieldAlert, Scan, CheckCircle, XCircle, Upload, Camera, ImageIcon, X } from 'lucide-react'
 
@@ -479,6 +480,7 @@ export function CounterfeitScanner() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   )
 }
